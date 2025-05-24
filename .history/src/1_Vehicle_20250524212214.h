@@ -25,7 +25,7 @@
 // #include "vehicles/UnimogU1000.h" // Umimog U 1000 with turbocharged R6 Diesel incl. Feuerwehr "Martinshorn" siren
 // #include "vehicles/MercedesActros1836.h" // Mercedes Actros 1863 or 3363 truck with R6 Diesel
 // #include "vehicles/MercedesActrosV6.h" // Mercedes Actros V6 Race Truck incl. tire squealing
-#include "vehicles/ScaniaV8_50ton.h" // SCANIA V8 50 ton truck. Unknown model. Bad quality!
+// #include "vehicles/ScaniaV8_50ton.h" // SCANIA V8 50 ton truck. Unknown model. Bad quality!
 // #include "vehicles/ScaniaV8.h" // SCANIA V8 truck, unknown model
 // #include "vehicles/1000HpScaniaV8.h" // 1000 HP SCANIA V8 truck with open pipes. Insane sound! Good bass speakers reqired
 // #include "vehicles/Scania143.h" // SCANIA 143 V8 - the legend! The best sounding in my opinion
@@ -58,7 +58,7 @@
 //  #include "vehicles/Benford3TonDumper.h" // Benford 3 ton dumper
 
  // Loaders -------
-// #include "vehicles/VolvoL120H.h"
+  #include "vehicles/VolvoL120H.h"
 
 // US motorcycles --------
 // #include "vehicles/HarleyDavidsonFXSB.h" // Harley Davidson FXSB V2 motorcycle
